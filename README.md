@@ -23,6 +23,4 @@ To run this app locally, you'll need to install the following Python libraries:
 - `torch`
 - `matplotlib`
 
-You can install these dependencies using the following command:
-```bash
-pip install -r requirements.txt
+
